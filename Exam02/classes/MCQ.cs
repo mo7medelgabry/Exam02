@@ -52,10 +52,10 @@ namespace Exam02.classes
             RightAnswer.AnswerText = AnswerList[rightAnswer - 1].AnswerText;
             Console.Clear();
 
-        }
+        } 
     }
 
 }
-
+       
    
 
